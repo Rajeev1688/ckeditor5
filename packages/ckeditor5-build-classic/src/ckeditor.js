@@ -88,6 +88,7 @@ ClassicEditor.defaultConfig = {
 			'redo'
 		]
 	},
+	shouldToolbarGroupWhenFull:true,
 	image: {
 		toolbar: [
 			'imageStyle:inline',
